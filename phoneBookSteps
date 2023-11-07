@@ -1,0 +1,14 @@
+#Say welcome to Karman's contact book! 
+# Ask, "what would you like to do?"
+# if user inputs 1 print all existing contacts.
+# 2 means to create a new contact.
+# 3 find a contact
+# 4 delete a contact
+# 5 exit
+# if input ==1 and contacts exist in array, display all contacts. else, print you have no contacts yet.
+# if input ==2 then ask for phone and name of person and store it in a array
+#if phone number is not in contact list/array, update array, else print contact already exists.
+#if input == 3 take user input for contact name. If contact exists, print phone number, otherwise, print this person inst in your contact list.
+#if input == 4 create a new variable and take input form user. check if name exitst. if so, confirm if user wants to delete the contact. if no, return back, if yes delete the name and the phone number. if name doesnt exist, dispaly that contact doesnt exist.
+# if input == 5 print Thank you for visiting karman's phone book. goodbye! then exit()
+# anytihng else, print Please input vaild number.
